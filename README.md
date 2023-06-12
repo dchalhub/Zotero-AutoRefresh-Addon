@@ -10,6 +10,9 @@ Other developers are welcome to contribute to the "AutoRefresher" addon. If you 
 
 ## Usage
 
+The AutoRefresher addon for Zotero offers a user-friendly and intuitive experience. All the necessary functionalities can be accessed conveniently through the context menu, which is available by simply right-clicking anywhere within the Zotero window. There are basically 3 AutoRefresher context-menu options:
+
+
 ### 1. Update Information Using Identifier (DOI/ISBN)
 
 - Select the desired items in Zotero.
