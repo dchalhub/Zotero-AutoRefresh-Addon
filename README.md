@@ -14,6 +14,8 @@ The AutoRefresher addon for Zotero offers a user-friendly and intuitive experien
 
 The 'Archive' field plays a temporary role in the AutoRefresher addon, serving to indicate the refresh status of items. It utilizes symbols such as [🔄] for refreshing, [✔️] for refreshed, and [❌] for items that could not be refreshed. To conveniently monitor the status of items, it is recommended to enable the 'Archive' field on the list interface. This will provide a clear and accessible view of the item's refresh status.
 
+Rest assured, once the refresh process is complete, you can effortlessly remove the symbols inserted in the 'Archive' field. This can be done by accessing the context menu and selecting the option "Clear all AutoRefresh Tags (🔄 ✔️ ❌) from 'Archive' Field". This convenient feature ensures that you can easily clear the temporary symbols from the 'Archive' field, maintaining a clean and organized view of your items.
+
 There are basically 3 AutoRefresher context-menu options:
 
 
