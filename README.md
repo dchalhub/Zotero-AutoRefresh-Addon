@@ -65,6 +65,21 @@ There are basically 3 AutoRefresh context-menu options:
 - If confirmed, the addon will delete the PDF attachments of the selected items.
 - Note that this action only deletes the PDF attachments and does not remove the items themselves.
 
+## Why an item did not get updated (❌)?
+
+If you encounter cases where an item did not get updated and an AutoRefresh tag of ❌ (failure) was inserted in the 'Archive' field, there are a few possible reasons:
+
+1. **Invalid or missing DOI/ISBN**: The item may have an invalid or missing DOI/ISBN, which prevents the addon from retrieving the updated information. Double-check the DOI/ISBN of the item and ensure it is accurate and valid.
+
+2. **Unavailable or unrecognized identifier**: The addon relies on the DOI/ISBN to fetch updated information from external sources. If the DOI/ISBN is not recognized or the external source does not have updated information for that specific item, the addon cannot update it. 
+
+3. **Connection or service issues**: The addon requires a stable internet connection to fetch updated information. If there are connectivity issues or the external service used by the addon is experiencing downtime or interruptions, it may result in failed updates. Verify your internet connection and try updating the item again later.
+
+4. **Item type limitations**: The addon works with specific item types. As of now, only journal articles, books and conference papers are supported. If the item type is not supported the update process will fail. Ensure that the item type is supported by the addon and consider checking for updates or improvements to the addon in the future.
+
+If an item did not get updated and you believe it should have, consider checking the above factors to troubleshoot the issue. If the problem persists or you encounter any other difficulties, please refer to the Support section on the addon's GitHub repository.
+
+
 ## Important Notes
 
 - The "AutoRefresh" addon is specifically designed for Zotero and works within the Zotero interface.
