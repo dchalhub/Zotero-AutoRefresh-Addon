@@ -3,7 +3,7 @@ AutoRefresher is a convenient Zotero addon that allows users to update item info
 
 
 ## Disclaimer
-The "AutoRefresher" Zotero Addon was developed by [Your Name] as a personal side gig project. It is important to note that the developer does not intend to provide continued support or actively maintain/update the plugin. While there is a possibility of occasional updates, it cannot be guaranteed. The addon was primarily developed to fulfill personal needs within the Zotero workflow.
+The "AutoRefresher" Zotero Addon was developed by Daniel Chalhub as a personal side project. It is important to note that the developer does not intend to provide continued support or actively maintain/update the plugin. While there is a possibility of occasional updates, it cannot be guaranteed. The addon was primarily developed to fulfill personal needs within the Zotero workflow.
 
 ## Contributions
 Other developers are welcome to contribute to the "AutoRefresher" addon. If you encounter any issues or have suggestions for improvements, you can submit them through GitHub. However, please be aware that the developer's ability to address these issues or merge contributions may be limited.
