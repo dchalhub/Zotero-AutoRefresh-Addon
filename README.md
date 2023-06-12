@@ -8,6 +8,21 @@ The "AutoRefresh" Zotero Addon was developed by Daniel Chalhub as a personal sid
 ## Contributions
 Other developers are welcome to contribute to the "AutoRefresh" addon. If you encounter any issues or have suggestions for improvements, you can submit them through GitHub. However, please be aware that the developer's ability to address these issues or merge contributions may be limited.
 
+## Installation
+
+To install the "AutoRefresh" Zotero Addon, follow these steps:
+
+1. Download the addon package (.xpi) from the [builds directory](/builds) of the repository.
+2. Open Zotero, go to "Tools" in the menu bar, and select "Add-ons."
+3. In the Add-ons Manager, click the gear icon and choose "Install Add-on From File."
+4. Locate the downloaded addon package (.xpi file) on your computer and select it.
+5. Click "Install" to add the addon to Zotero.
+6. Restart Zotero
+7. Go back to "Tools" in the menu bar, and select "Add-ons". After successful installation, you should see the "AutoRefresh" addon listed in the Add-ons Manager of Zotero. 
+8. You can now access its features as described in the [Usage](#usage) section of this documentation.
+
+Please note that the addon package is provided in the "builds" directory of the repository.
+
 ## Usage
 
 The AutoRefresh addon for Zotero offers a user-friendly and intuitive experience. All the necessary functionalities can be accessed conveniently through the context menu, which is available by simply right-clicking anywhere within the Zotero window. 
