@@ -1,0 +1,3 @@
+	initPreferences = function() {
+
+	}

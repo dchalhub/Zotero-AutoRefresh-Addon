@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay SYSTEM "chrome://zoteroAutoRefesh/locale/overlay.dtd">
+
+<overlay
+    id="zoteroAutoRefesh"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script
+        type="application/x-javascript"
+        src="chrome://zoteroAutoRefesh/content/scripts/zoteroAutoRefesh.js"/>
+		
+    <popup
+        id="zotero-itemmenu"
+        onpopupshowing="ZoteroPane.buildItemContextMenu();">
+				<menuseparator/>
+
+      <menuitem
+      label="Update information Using Identifier (DOI/ISBN)"
+      oncommand="Zotero.AutoRefesh.selectedItemsUpdateInfo()"
+      />
+
+      <menuitem
+      label="Clear all AutoRefresh Tags (🔄 ✔️ ❌) from 'Archive' field"
+      oncommand="Zotero.AutoRefesh.allItemsClearTags()"
+      />
+      
+      <menuitem
+      label="Delete Only PDFs"
+      oncommand="Zotero.AutoRefesh.selectedItemsDeletePDF()"
+      />
+      
+      
+    </popup>
+</overlay>

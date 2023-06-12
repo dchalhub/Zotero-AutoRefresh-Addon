@@ -1,0 +1,5 @@
+content zoteroAutoRefesh chrome/content/
+locale zoteroAutoRefesh en-US chrome/locale/en-US/
+
+overlay chrome://zotero/content/zoteroPane.xul chrome://zoteroAutoRefesh/content/overlay.xul
+overlay chrome://zotero/content/preferences/preferences.xul chrome://zoteroAutoRefesh/content/preferences.xul

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE window SYSTEM "chrome://zoteroAutoRefesh/locale/overlay.dtd">
+
+<overlay id="zoteroAutoRefesh-preferences"
+	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  xmlns:html="http://www.w3.org/1999/xhtml">
+
+
+
+	<!-- Include the main extension logic -->
+	<script src="chrome://zoteroAutoRefresh/content/scripts/preferences.js"/>
+
+</overlay>
