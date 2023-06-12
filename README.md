@@ -10,7 +10,11 @@ Other developers are welcome to contribute to the "AutoRefresher" addon. If you 
 
 ## Usage
 
-The AutoRefresher addon for Zotero offers a user-friendly and intuitive experience. All the necessary functionalities can be accessed conveniently through the context menu, which is available by simply right-clicking anywhere within the Zotero window. There are basically 3 AutoRefresher context-menu options:
+The AutoRefresher addon for Zotero offers a user-friendly and intuitive experience. All the necessary functionalities can be accessed conveniently through the context menu, which is available by simply right-clicking anywhere within the Zotero window. 
+
+The 'Archive' field plays a temporary role in the AutoRefresher addon, serving to indicate the refresh status of items. It utilizes symbols such as [🔄] for refreshing, [✔️] for refreshed, and [❌] for items that could not be refreshed. To conveniently monitor the status of items, it is recommended to enable the 'Archive' field on the list interface. This will provide a clear and accessible view of the item's refresh status.
+
+There are basically 3 AutoRefresher context-menu options:
 
 
 ### 1. Update Information Using Identifier (DOI/ISBN)
