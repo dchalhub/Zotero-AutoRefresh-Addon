@@ -8,6 +8,12 @@ The "AutoRefresh" Zotero Addon was developed by Daniel Chalhub as a personal sid
 ## Contributions
 Other developers are welcome to contribute to the "AutoRefresh" addon. If you encounter any issues or have suggestions for improvements, you can submit them through GitHub. However, please be aware that the developer's ability to address these issues or merge contributions may be limited.
 
+## Zotero Compatibility
+
+So far, this addon has been tested and known to work successfully on the following Zotero versions:
+
+1.Zotero 6.0.26
+
 ## Installation
 
 To install the "AutoRefresh" Zotero Addon, follow these steps:
