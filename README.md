@@ -1,7 +1,6 @@
-# Zotero-AutoRefresher
+# Zotero Addon "AutoRefresher"
 AutoRefresher is a convenient Zotero addon that allows users to update item information/metadata directly from the DOI/ISBN online databases. It also provides a convenient way to delete PDFs of selected items.
 
-# Documentation for Zotero Addon "AutoRefresher"
 
 ## Disclaimer
 The "AutoRefresher" Zotero Addon was developed by [Your Name] as a personal side gig project. It is important to note that the developer does not intend to provide continued support or actively maintain/update the plugin. While there is a possibility of occasional updates, it cannot be guaranteed. The addon was primarily developed to fulfill personal needs within the Zotero workflow.
