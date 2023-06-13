@@ -96,7 +96,7 @@ We hope the "AutoRefresher" addon proves useful to you. Remember to exercise cau
 
 ## About the Developer
 
-Daniel José Nahid Mansur Chalhub, D.Sc., is an academic based at the Laboratório GESAR ([http://www.gesar.uerj.br](http://www.gesar.uerj.br)), part of the prestigious Rio de Janeiro State University (UERJ) in Brazil. His research interests include Numerical Methods, Computational Fluid Dynamics, Hybrid Methods for Solving PDEs, Integral Transform Technique, Diffusion-Advection Problems, Heat and Mass Transfer, and Symbolic Computing.
+Professor Daniel José Nahid Mansur Chalhub, D.Sc., is an academic based at the Laboratório GESAR ([http://www.gesar.uerj.br](http://www.gesar.uerj.br)), part of the prestigious Rio de Janeiro State University (UERJ) in Brazil. His research interests include Numerical Methods, Computational Fluid Dynamics, Hybrid Methods for Solving PDEs, Integral Transform Technique, Diffusion-Advection Problems, Heat and Mass Transfer, and Symbolic Computing.
 
 Prof. Chalhub is associated with the Mechanical Engineering Graduate Program (PPG-EM) at UERJ ([http://www.ppgem.uerj.br](http://www.ppgem.uerj.br)). This high-standard, tuition-free program aims to promote scientific development in mechanical, aeronautics and naval engineering, and other compatible areas. It is designed for the training of professors, researchers, and highly qualified professionals who will contribute to the development of scientific and technological activities in the field of Mechanical Engineering.
 
