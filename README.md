@@ -98,9 +98,9 @@ We hope the "AutoRefresher" addon proves useful to you. Remember to exercise cau
 
 Daniel José Nahid Mansur Chalhub, D.Sc., is an academic based at the Laboratório GESAR [http://www.gesar.uerj.br](http://www.gesar.uerj.br), part of the prestigious Rio de Janeiro State University (UERJ) in Brazil. His research interests include Numerical Methods, Computational Fluid Dynamics, Hybrid Methods for Solving PDEs, Integral Transform Technique, Diffusion-Advection Problems, Heat and Mass Transfer, and Symbolic Computing.
 
-Prof. Chalhub is associated with the Mechanical Engineering Graduate Program (PPG-EM) at UERJ. This high-standard, tuition-free program aims to promote scientific development in mechanical, aeronautics and naval engineering, and other compatible areas. It is designed for the training of professors, researchers, and highly qualified professionals who will contribute to the development of scientific and technological activities in the field of Mechanical Engineering.
+Prof. Chalhub is associated with the Mechanical Engineering Graduate Program (PPG-EM) at UERJ [http://www.ppgem.uerj.br](http://www.ppgem.uerj.br). This high-standard, tuition-free program aims to promote scientific development in mechanical, aeronautics and naval engineering, and other compatible areas. It is designed for the training of professors, researchers, and highly qualified professionals who will contribute to the development of scientific and technological activities in the field of Mechanical Engineering.
 
 If you're considering further studies in these fields, the PPG-EM program offers both Masters (MSc) and Doctoral (PhD) level courses, and also admits post-doctoral researchers.
 
-For further information, Prof. Chalhub can be contacted at [daniel.chalhub@eng.uerj.br](mailto:daniel.chalhub@eng.uerj.br). More about his work and contributions can be found on his personal website at [http://www.ppgem.uerj.br](http://www.ppgem.uerj.br).
+For further information, Prof. Chalhub can be contacted at [daniel.chalhub@eng.uerj.br](mailto:daniel.chalhub@eng.uerj.br). More about his work and contributions can be found on the website [http://www.ppgem.uerj.br](http://www.ppgem.uerj.br).
 
