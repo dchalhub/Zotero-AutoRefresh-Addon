@@ -102,5 +102,5 @@ Prof. Chalhub is associated with the Mechanical Engineering Graduate Program (PP
 
 If you're considering further studies in these fields, the PPG-EM program offers both Masters (MSc) and Doctoral (PhD) level courses, and also admits post-doctoral researchers.
 
-For further information, Prof. Chalhub can be contacted at [daniel.chalhub@eng.uerj.br](mailto:daniel.chalhub@eng.uerj.br) or at +55 (21) 2332-4733. More about his work and contributions can be found on his personal website at [http://www.ppgem.uerj.br](http://www.ppgem.uerj.br).
+For further information, Prof. Chalhub can be contacted at [daniel.chalhub@eng.uerj.br](mailto:daniel.chalhub@eng.uerj.br). More about his work and contributions can be found on his personal website at [http://www.ppgem.uerj.br](http://www.ppgem.uerj.br).
 
